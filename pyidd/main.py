@@ -58,7 +58,7 @@ class PyIDD:
             st.burr, st.burr12, st.cauchy, st.chi, st.chi2, st.cosine, st.crystalball,
             st.dgamma, st.dweibull, st.erlang, st.expon, st.exponnorm, st.exponweib,
             st.exponpow, st.f, st.fatiguelife, st.fisk, st.foldcauchy, st.foldnorm,
-            st.frechet_r, st.frechet_l, st.genlogistic, st.gennorm, st.genpareto,
+            st.frechet_l, st.genlogistic, st.gennorm, st.genpareto,
             st.genexpon, st.genextreme, st.gausshyper, st.gamma, st.gengamma, st.genhalflogistic,
             st.geninvgauss, st.gilbrat, st.gompertz, st.gumbel_r, st.gumbel_l, st.halfcauchy,
             st.halflogistic, st.halfnorm, st.halfgennorm, st.hypsecant, st.invgamma, st.invgauss,
